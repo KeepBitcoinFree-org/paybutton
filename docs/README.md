@@ -534,7 +534,7 @@ randomSatoshis = true
 #### ** HTML **
 
 ```html
-disableEnforceFocus="false"
+disable-enforce-focus="false"
 ```
 
 #### ** JavaScript **
