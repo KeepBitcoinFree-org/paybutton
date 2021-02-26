@@ -107,7 +107,7 @@ PayButton.defaultProps = {
   randomSatoshis: true,
   successText: 'Thank you!',
   disabled: false,
-  disableEnforceFocus: false,
+  disableEnforceFocus: true,
 };
 
 export default PayButton;
